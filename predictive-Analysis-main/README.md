@@ -2,9 +2,7 @@
 
 *COMPANY *: CODTECH IT SOLUTIONS
 
-*NAME *: Yogesh S
-
-*INTERN ID *: CTIS3967
+*NAME *: Venkata sai pavan
 
 *DOMAIN *: Data Analysis
 
@@ -139,9 +137,3 @@ Output:
 
 This project demonstrates the practical application of machine learning in financial fraud detection.
 It highlights the importance of data preprocessing, feature scaling, and proper evaluation techniques when dealing with imbalanced datasets.
-
-
-👤 Author
-
-Yogesh S
-Aspiring Data Analyst | Machine Learning Enthusiast
